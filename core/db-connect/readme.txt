@@ -1,0 +1,1 @@
+This folder will contain all the database connectivity settings. All connections will be handled from here
